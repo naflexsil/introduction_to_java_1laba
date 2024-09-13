@@ -9,6 +9,7 @@ class MainTest {
     public void testFizzBuzz() {
         // должны вернуть "fizzbuzz"
         assertEquals("fizzbuzz", Main.fizzBuzz(35));
+
         // должны вернуть "fizz"
         assertEquals("fizz", Main.fizzBuzz(10));
 

@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d47f0623-c077-4088-b17e-a8d6a74c5b80" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="d47f0623-c077-4088-b17e-a8d6a74c5b80" name="Changes" comment="I'm sorry I'm being inconsiderate">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main_make_install.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main_make_install.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TheSum_of_the_series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TheSum_of_the_series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/The_quadratic_equation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/The_quadratic_equation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Main_make_installTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Main_make_installTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TheSum_of_the_seriesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TheSum_of_the_seriesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/The_quadratic_equationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/The_quadratic_equationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
     </option>
@@ -31,6 +39,18 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "naflexsil"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/naflexsil/introduction_to_java_1laba.git",
+    "accountId": "d8e2c670-d6a3-45e6-a1b0-621c016b711e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -40,19 +60,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.MainTest.executor": "Run",
-    "Gradle.introduction_to_java_1laba [:org.example.Main.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/StaRR/IdeaProjects/introduction_to_java_1laba/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main_make_installTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PalindromeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TheSum_of_the_seriesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.The_quadratic_equationTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.introduction_to_java_1laba [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.introduction_to_java_1laba [:org.example.Main_make_install.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.introduction_to_java_1laba [:org.example.Palindrome.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.introduction_to_java_1laba [:org.example.TheSum_of_the_series.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.introduction_to_java_1laba [:org.example.The_quadratic_equation.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/StaRR/IdeaProjects/introduction_to_java_1laba/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -61,9 +89,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MainTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+  <component name="RunManager" selected="Gradle.Main_make_installTest">
+    <configuration name="Main_make_install" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main_make_install" />
       <module name="introduction_to_java_1laba.main" />
       <extension name="coverage">
         <pattern>
@@ -75,7 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Palindrome" />
+      <module name="introduction_to_java_1laba.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_make_installTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -88,7 +129,55 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.MainTest&quot;" />
+            <option value="&quot;org.example.Main_make_installTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PalindromeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.example.PalindromeTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="TheSum_of_the_seriesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.example.TheSum_of_the_seriesTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -101,8 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MainTest" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.Main_make_installTest" />
+        <item itemvalue="Application.Main_make_install" />
+        <item itemvalue="Gradle.PalindromeTest" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Gradle.TheSum_of_the_seriesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +207,55 @@
       <option name="presentableId" value="Default" />
       <updated>1726071117715</updated>
     </task>
+    <task id="LOCAL-00001" summary="add gradle file">
+      <option name="closed" value="true" />
+      <created>1726159182927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726159182927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add gradle file">
+      <option name="closed" value="true" />
+      <created>1726216403730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726216403730</updated>
+    </task>
+    <task id="LOCAL-00003" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1726217264406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726217264406</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gat github attempt">
+      <option name="closed" value="true" />
+      <created>1726217769859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726217769859</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CAT PLEASE edited it">
+      <option name="closed" value="true" />
+      <created>1726218444288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726218444288</updated>
+    </task>
+    <task id="LOCAL-00006" summary="I'm sorry I'm being inconsiderate">
+      <option name="closed" value="true" />
+      <created>1726218594656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726218594656</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,5 +268,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gradle file" />
+    <MESSAGE value="attempt" />
+    <MESSAGE value="gat github attempt" />
+    <MESSAGE value="CAT PLEASE edited it" />
+    <MESSAGE value="I'm sorry I'm being inconsiderate" />
+    <option name="LAST_COMMIT_MESSAGE" value="I'm sorry I'm being inconsiderate" />
   </component>
 </project>
